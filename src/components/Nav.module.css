@@ -1,9 +1,8 @@
 
 
 .nav {
-    background-color: rgb(73, 78, 78);
+    background-color: rgb(116, 119, 119);
     position: fixed;
-    background-color: rgb(73, 78, 78);
     width: 100%;
     
 
@@ -17,7 +16,7 @@
     align-items: center;
     max-width: 1000px;
     margin: auto;
-    height: 80px;
+    height: 90px;
    
 
 }
@@ -110,7 +109,7 @@
 
     .menuIcon {
         display: flex;
-        background-color: rgb(73, 78, 78);
+        background-color:  rgb(116, 119, 119);;
         flex-direction: column;
         position: fixed;
         left: 0;
@@ -156,7 +155,7 @@
 
     .navMenu {
         justify-content:space-between;
-        background-color: rgb(73, 78, 78);
+        background-color: rgb(116, 119, 119);;
         width: 100%;
         position: fixed;
         left: 0;
