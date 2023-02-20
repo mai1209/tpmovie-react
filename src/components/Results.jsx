@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import { Link } from "react-router-dom";
-import MovieCSS from "./Movie.module.css";
+import MovieCSS from "./style/Movie.module.css";
 import queryString from "query-string";
 
 export default function Results() {

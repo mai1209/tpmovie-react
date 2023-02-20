@@ -1,6 +1,6 @@
 import React from 'react'
-import NavLinks from './NavLinks'
-import NavCSS from "./Nav.module.css";
+import NavLinks from '../utils/NavLinks'
+import NavCSS from "../style/Nav.module.css";
 
 
 

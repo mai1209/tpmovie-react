@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom';
-import MovieCSS from './Movie.module.css'
+import MovieCSS from './style/Movie.module.css'
 
 
 

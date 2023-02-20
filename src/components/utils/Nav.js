@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import NavCSS from "./Nav.module.css";
-import NavDesktop from './NavDesktop';
-import NavMobile from './NavMobile';
+import NavCSS from "../style/Nav.module.css";
+import NavDesktop from '../utils/NavDesktop';
+import NavMobile from '../utils/NavMobile';
 
 
 

@@ -1,7 +1,7 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
-import Nav from "./Nav";
-import Footer from "./Footer";
+import Nav from "./utils/Nav"
+import Footer from "./utils/Footer";
 import Detail from "./Detail";
 import Movies from "./Movies";
 import Results from "./Results";

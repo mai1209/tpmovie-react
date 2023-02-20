@@ -1,7 +1,7 @@
 import { Link, useHistory } from "react-router-dom";
 
 import React, { useState } from "react";
-import NavCSS from "./Nav.module.css";
+import NavCSS from "../style/Nav.module.css";
 
 export default function NavLinks() {
   const [inputSearch, setInputSearch] = useState("");
